@@ -3,8 +3,8 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="id">Láska a zodpovednosť</dc:title>
     <dc:creator id="id-1">Karol Wojtyła</dc:creator>
-    <dc:identifier>isbn:9788080521707</dc:identifier>
     <dc:identifier>google:XMZyPQAACAAJ</dc:identifier>
+    <dc:identifier>isbn:9788080521707</dc:identifier>
     <dc:identifier>calibre:1</dc:identifier>
     <dc:identifier>uuid:692afc6c-aeae-47a2-96ad-20e8b470a8ee</dc:identifier>
     <dc:identifier id="uuid">Id_FFFDD561-1EE1-406D-9857-0A3F3771A30E_</dc:identifier>
@@ -18,7 +18,7 @@ v Lubline. Kniha je rozdelená do piatich celkov. Prvá časť – &lt;em&gt;Oso
     <dc:publisher>Metodicko-pedagogické centrum</dc:publisher>
     <meta refines="#id" property="title-type">main</meta>
     <meta refines="#id" property="file-as">Láska a zodpovednosť</meta>
-    <meta property="dcterms:modified">2019-02-17T16:49:51Z</meta>
+    <meta property="dcterms:modified">2019-02-23T13:21:31Z</meta>
     <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
     <meta property="file-as" refines="#id-1">Wojtyła, Karol</meta>
     <meta property="calibre:author_link_map">{"Karol Wojtyła": ""}</meta>
