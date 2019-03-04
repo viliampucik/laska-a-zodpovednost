@@ -18,7 +18,7 @@ v Lubline. Kniha je rozdelená do piatich celkov. Prvá časť – &lt;em&gt;Oso
     <dc:publisher>Metodicko-pedagogické centrum</dc:publisher>
     <meta refines="#id" property="title-type">main</meta>
     <meta refines="#id" property="file-as">Láska a zodpovednosť</meta>
-    <meta property="dcterms:modified">2019-02-23T13:21:31Z</meta>
+    <meta property="dcterms:modified">2019-03-04T17:24:48Z</meta>
     <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
     <meta property="file-as" refines="#id-1">Wojtyła, Karol</meta>
     <meta property="calibre:author_link_map">{"Karol Wojtyła": ""}</meta>
