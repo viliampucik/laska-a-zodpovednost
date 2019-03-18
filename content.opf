@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="id">Láska a zodpovednosť</dc:title>
     <dc:creator id="id-1">Karol Wojtyła</dc:creator>
     <dc:identifier>isbn:9788080521707</dc:identifier>
     <dc:identifier>google:XMZyPQAACAAJ</dc:identifier>
-    <dc:identifier>calibre:1</dc:identifier>
-    <dc:identifier>uuid:692afc6c-aeae-47a2-96ad-20e8b470a8ee</dc:identifier>
+    <dc:identifier>calibre:2</dc:identifier>
+    <dc:identifier>uuid:741c8994-e37d-428d-92d6-2ed9e00875dc</dc:identifier>
     <dc:identifier id="uuid">Id_FFFDD561-1EE1-406D-9857-0A3F3771A30E_</dc:identifier>
     <dc:language>sk-SK</dc:language>
     <dc:date>2003-01-14T23:00:00+00:00</dc:date>
@@ -16,15 +15,16 @@ základné východiská neskôr rozvinuté v teológii tela. Kniha vznikla ako
 súhrn prednášok Karola Wojtyłu z rokov 1958-59 na Katolíckej univerzite 
 v Lubline. Kniha je rozdelená do piatich celkov. Prvá časť – &lt;em&gt;Osoba a pud&lt;/em&gt; analyzuje slovo „užívať“, inštinkt, pud a sexuálny pud. Druhá časť – &lt;em&gt;Osoba a láska&lt;/em&gt; ponúka metafyzickú, psychologickú a etickú analýzu lásky. V časti – &lt;em&gt;Osoba a čistota&lt;/em&gt; sa Wojtyła venuje pojmom čistota, stud, žiadostivosť, zdržanlivosť. V následnej časti – &lt;em&gt;Spravodlivosť voči stvoriteľovi&lt;/em&gt; rozoberá tému manželstva a povolania. Piata časť &lt;em&gt;Sexuológia a etika&lt;/em&gt; rozoberá viaceré problémy sexuálnej etiky: problém manželstva a spolužitia, problém vedomého materstva.&lt;/div&gt;</dc:description>
     <dc:publisher>Metodicko-pedagogické centrum</dc:publisher>
-    <meta refines="#id" property="title-type">main</meta>
-    <meta refines="#id" property="file-as">Láska a zodpovednosť</meta>
-    <meta property="dcterms:modified">2019-03-11T17:14:34Z</meta>
-    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
-    <meta property="file-as" refines="#id-1">Wojtyła, Karol</meta>
-    <meta property="calibre:author_link_map">{"Karol Wojtyła": ""}</meta>
+    <opf:meta refines="#id" property="title-type">main</opf:meta>
+    <opf:meta refines="#id" property="file-as">Láska a zodpovednosť</opf:meta>
+    <meta property="dcterms:modified">2019-05-12T09:26:05Z</meta>
+    <opf:meta property="role" refines="#id-1" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-1">Wojtyła, Karol</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Karol Wojtyła": ""}</opf:meta>
   </metadata>
   <manifest>
     <item href="front.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
     <item href="foreword.xhtml" id="id29" media-type="application/xhtml+xml"/>
     <item href="introduction-1.xhtml" id="id30" media-type="application/xhtml+xml"/>
     <item href="introduction-2.xhtml" id="id31" media-type="application/xhtml+xml"/>
@@ -83,13 +83,12 @@ v Lubline. Kniha je rozdelená do piatich celkov. Prvá časť – &lt;em&gt;Oso
     <item href="chapter-53.xhtml" id="id25" media-type="application/xhtml+xml"/>
     <item href="chapter-54.xhtml" id="id63" media-type="application/xhtml+xml"/>
     <item href="footnotes.xhtml" id="id28" media-type="application/xhtml+xml"/>
-    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
     <item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
-    <item href="main.css" id="id27" media-type="text/css"/>
     <item href="cover.jpg" id="id1" media-type="image/jpeg" properties="cover-image"/>
   </manifest>
   <spine toc="toc">
     <itemref idref="id0"/>
+    <itemref idref="nav"/>
     <itemref idref="id29"/>
     <itemref idref="id30"/>
     <itemref idref="id31"/>
@@ -148,6 +147,5 @@ v Lubline. Kniha je rozdelená do piatich celkov. Prvá časť – &lt;em&gt;Oso
     <itemref idref="id25"/>
     <itemref idref="id63"/>
     <itemref idref="id28"/>
-    <itemref idref="nav" linear="no"/>
   </spine>
 </package>
